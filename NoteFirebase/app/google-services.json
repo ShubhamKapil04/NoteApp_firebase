@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "544130217734",
+    "project_id": "note-pro-bafda",
+    "storage_bucket": "note-pro-bafda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544130217734:android:6fa7a8c6142d154cc61087",
+        "android_client_info": {
+          "package_name": "app.notetaking.note"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544130217734-0gr889m02b2iqtrv0p5t29i54p0vgr79.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUJiWkEIe97Gw3wzATQ8lxnfrYegwLFAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544130217734-0gr889m02b2iqtrv0p5t29i54p0vgr79.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
